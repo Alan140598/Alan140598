@@ -2,7 +2,6 @@
 
 ###
 <img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
-###
 
 
 <div align="left">
@@ -28,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
-
+<br>
 <div align="left">
   <a href="https://www.instagram.com/alan48348" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -43,7 +42,7 @@
 
 ###
 
-<h3 align="right">About Me</h3>
+<h3 align="left"><b>About Me</b></h3>
 
 ###
 
