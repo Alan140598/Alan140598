@@ -45,3 +45,27 @@
 <img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
 
 ###
+
+<h3 align="center">About Me</h3>
+
+###
+
+<p align="left">Live in Indonesia<br>Math Edu Student 🏫📖<br>Love bento🍱 and melon🍈<br>Basketball🏀</p>
+
+###
+
+<h4 align="left">Video Games 🎮</h4>
+
+###
+
+<div align="center">
+  <img height="200" src="https://wallpaperaccess.com/full/671214.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/04/fate-grand-order-official-art.jpg"  />
+</div>
+
+###
