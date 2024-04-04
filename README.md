@@ -28,6 +28,10 @@
 
 ###
 
+<img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/alan48348" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -39,10 +43,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
 
 ###
 
@@ -66,12 +66,12 @@
 
 ###
 
-<img align="left" height="210" src="https://wallpaperaccess.com/full/671214.jpg"  />
+<div align="left">
+  <img height="200" src="https://th.bing.com/th/id/OIP.sApLIWpTKH1zrQMXcWyEGgHaKn?w=850&h=1218&rs=1&pid=ImgDetMain"  />
+</div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://th.bing.com/th/id/OIP.sApLIWpTKH1zrQMXcWyEGgHaKn?w=850&h=1218&rs=1&pid=ImgDetMain"  />
-</div>
+<img align="left" height="210" src="https://wallpaperaccess.com/full/671214.jpg"  />
 
 ###
