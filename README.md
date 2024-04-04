@@ -74,18 +74,17 @@
 
 ###
 
-<img align="left" height="150" src="https://wallpaperaccess.com/full/671214.jpg"  />
+<img align="left" height="210" src="https://wallpaperaccess.com/full/671214.jpg"  />
 
 ###
 
 <div align="left">
-  <img height="150" src="https://th.bing.com/th/id/OIP.sApLIWpTKH1zrQMXcWyEGgHaKn?w=850&h=1218&rs=1&pid=ImgDetMain"  />
+  <img height="210" src="https://th.bing.com/th/id/OIP.sApLIWpTKH1zrQMXcWyEGgHaKn?w=850&h=1218&rs=1&pid=ImgDetMain"  />
 </div>
 
 ###
 
-<div align="left">
-  <img height="150" src="https://wallpapercave.com/wp/wp6149707.png"  />
-</div>
+
+<img src="https://raw.githubusercontent.com/Alan140598/Alan140598/output/snake.svg" alt="Snake animation" />
 
 ###
