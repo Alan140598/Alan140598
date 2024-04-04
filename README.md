@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is Alan Kurniawan and I'm a Student from Universitas Bhinneka PGRI Tulungagung</h2>
 
 ###
+<img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
+###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -25,12 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/alan48348" target="_blank">
