@@ -2,13 +2,6 @@
 
 ###
 <img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
-
-<div>
-  background-image: url('https://images2.alphacoders.com/985/thumb-1920-985381.jpg'); 
-  background-size: cover; 
-  background-repeat: no-repeat; 
-  background-position: center; 
-<div>
         
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -46,6 +39,18 @@
   </a>
 </div>
 
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan140598&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="176" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alan140598&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="176" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alan140598&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+</div>
+
+###
+
+
 ###
 
 <h3 align="left">&#9670;About Me&#9670;</h3>
@@ -75,6 +80,12 @@
 
 <div align="left">
   <img height="200" src="https://th.bing.com/th/id/OIP.sApLIWpTKH1zrQMXcWyEGgHaKn?w=850&h=1218&rs=1&pid=ImgDetMain"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="210" src="https://wallpapercave.com/wp/wp6149707.png"  />
 </div>
 
 ###
