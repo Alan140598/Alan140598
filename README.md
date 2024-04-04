@@ -64,14 +64,15 @@
 
 <h4 align="left">My Favourite Games 🎮</h4>
 
+
+###
+
+<img align="left" height="210" src="https://wallpaperaccess.com/full/671214.jpg"  />
+
 ###
 
 <div align="left">
   <img height="200" src="https://th.bing.com/th/id/OIP.sApLIWpTKH1zrQMXcWyEGgHaKn?w=850&h=1218&rs=1&pid=ImgDetMain"  />
 </div>
-
-###
-
-<img align="left" height="210" src="https://wallpaperaccess.com/full/671214.jpg"  />
 
 ###
