@@ -3,7 +3,13 @@
 ###
 <img align="right" height="150" src="https://s5.ezgif.com/tmp/ezgif-5-acc4108b4b.gif"  />
 
-
+<div>
+  background-image: url('https://images2.alphacoders.com/985/thumb-1920-985381.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+<div>
+        
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -42,7 +48,7 @@
 
 ###
 
-<h3 align="left"><b>About Me</b></h3>
+<h3 align="left">&#9670;About Me&#9670;</h3>
 
 ###
 
