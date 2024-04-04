@@ -50,22 +50,28 @@
 
 ###
 
+<p align="left">Currently still learning about Web Development🛠️💻<br>Goals🎯: Create websites that are functional and provide value to users, includes ensuring that the website works as intended and delivers the intended functionality.</p>
+
+###
+
+<h4 align="left">Fun Fact🎉</h4>
+
+###
+
 <p align="left">Live in Indonesia<br>Math Edu Student 🏫📖<br>Love bento🍱 and melon🍈<br>Basketball🏀</p>
 
 ###
 
-<h4 align="left">Video Games 🎮</h4>
+<h4 align="left">My Favourite Games 🎮</h4>
+
+###
+
+<img align="left" height="210" src="https://wallpaperaccess.com/full/671214.jpg"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://wallpaperaccess.com/full/671214.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/04/fate-grand-order-official-art.jpg"  />
+  <img height="200" src="https://th.bing.com/th/id/OIP.sApLIWpTKH1zrQMXcWyEGgHaKn?w=850&h=1218&rs=1&pid=ImgDetMain"  />
 </div>
 
 ###
