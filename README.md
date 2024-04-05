@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Kurniawan
 ======================================================================================================================================
 
-Web Developer
+### Web Developer
 -------------
 
 I've been learning to code for 7 months, after switching careers. I started with python, but really have a passion for Front-End Development and still learning about another tech stack for websites that are functional and provide value to users, includes ensuring that the website works as intended and delivers the intended functionality.
