@@ -35,6 +35,3 @@ src="https://img.shields.io/github/followers/Alan140598?logo=github&style=for-th
 <a href="http://www.github.com/Alan140598"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan140598&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Alan140598" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan140598&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-# Snake Eating my Constribution Graphs
-![Snake animation](https://github.com/Alan140598/Alan140598/blob/output/github-contribution-grid-snake.svg)
