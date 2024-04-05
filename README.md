@@ -11,6 +11,9 @@ I've been learning to code for 7 months, after switching careers. I started with
 * 🧠  I'm currently learning Vue.js
 * ⚡  I love playing Dota 2
 
+<a href="https://www.github.com/Alan140598" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Alan140598?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+
 ### Skills
 
 
@@ -30,7 +33,5 @@ I've been learning to code for 7 months, after switching careers. I started with
 <a href="http://www.github.com/Alan140598"><img src="https://github-readme-stats.vercel.app/api?username=Alan140598&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Alan140598's GitHub stats" /></a>
 
 <a href="http://www.github.com/Alan140598"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan140598&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Alan140598"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Alan140598&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Alan140598" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan140598&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
